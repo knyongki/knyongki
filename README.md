@@ -14,6 +14,7 @@
   <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS"/>
   <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="FireBase"/>
   <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap"/>
+  <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind"/>
 
 ### Contact
 
