@@ -5,6 +5,7 @@
 
 <div>
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
+  <img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP"/>
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
   <img src="https://img.icons8.com/color/48/000000/kotlin.png" alt="Kotlin"/>
   <img src="https://img.icons8.com/color/48/000000/dart.png" alt="Dart"/>
