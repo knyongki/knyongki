@@ -17,7 +17,7 @@
   <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL"/>
   <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="FireBase"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"/>
-  <img src="https://img.icons8.com/?size=100&id=4PiNHtUJVbLs&format=png&color=000000" alt="Tailwind CSS"/>
+  <img src="https://img.icons8.com/?size=48&id=4PiNHtUJVbLs&format=png&color=000000" alt="Tailwind CSS"/>
   <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap"/>
 
 ### Contact
