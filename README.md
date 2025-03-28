@@ -6,11 +6,13 @@
 <div>
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
   <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript"/>
-  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
   <img src="https://img.icons8.com/color/48/000000/dart.png" alt="Dart"/>
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/>
   <img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP"/>
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/>
+  <img src="https://img.icons8.com/color/48/000000/nextjs.png" alt="Next.js"/>
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/>
   <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter"/>
   <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS"/>
   <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL"/>
