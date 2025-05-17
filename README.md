@@ -21,7 +21,7 @@
   <img src="https://img.icons8.com/color/48/000000/tailwindcss" alt="Tailwind CSS"/>
   <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker"/>
   <img src="https://img.icons8.com/color/48/000000/redis.png" alt="Redis"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/rabbitmq.svg" width="48" height="48" alt="RabbitMQ"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/rabbitmq.svg" width="42" height="42" alt="RabbitMQ"/>
   <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS"/>
 </div>
   
