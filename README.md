@@ -8,20 +8,24 @@
   <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript"/>
   <img src="https://img.icons8.com/color/48/000000/dart.png" alt="Dart"/>
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
-  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/>
-  <img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP"/>
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/>
   <img src="https://img.icons8.com/color/48/000000/nextjs.png" alt="Next.js"/>
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/>
   <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter"/>
-  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS"/>
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/>
   <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL"/>
-  <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL"/>
-  <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="FireBase"/>
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"/>
+  <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase"/>
   <img src="https://img.icons8.com/?size=48&id=4PiNHtUJVbLs&format=png&color=000000" alt="Tailwind CSS"/>
-  <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap"/>
-
+  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS"/>
+  <img src="https://img.icons8.com/offices/48/react.png" alt="React"/>
+  <img src="https://nestjs.com/img/logo-small.svg" width="48" height="48" alt="NestJS"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/express-js.png" alt="Express.js"/>
+  <img src="https://hapijs.com/public/img/hapi.png" width="48" height="48" alt="HapiJS"/>
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL"/>
+  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker"/>
+  <img src="https://img.icons8.com/color/48/000000/redis.png" alt="Redis"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/rabbitmq.svg" width="48" height="48" alt="RabbitMQ"/>
+</div>
+  
 ### Contact
 
 You can reach me at:
