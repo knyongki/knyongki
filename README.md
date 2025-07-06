@@ -7,18 +7,15 @@
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
   <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript"/>
   <img src="https://img.icons8.com/color/48/000000/dart.png" alt="Dart"/>
-  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/>
-  <img src="https://img.icons8.com/color/48/000000/nextjs.png" alt="Next.js"/>
-  <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter"/>
-  <img src="https://img.icons8.com/offices/48/react.png" alt="React"/>
   <img src="https://nestjs.com/img/logo-small.svg" width="48" height="48" alt="NestJS"/>
   <img src="https://img.icons8.com/color/48/000000/express-js.png" alt="Express.js"/>
+  <img src="https://img.icons8.com/color/48/000000/nextjs.png" alt="Next.js"/>
+  <img src="https://img.icons8.com/offices/48/react.png" alt="React"/>
+  <img src="https://img.icons8.com/color/48/000000/tailwindcss" alt="Tailwind CSS"/>
+  <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter"/>
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/>
   <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL"/>
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL"/>
-  <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase"/>
-  <img src="https://img.icons8.com/color/48/000000/tailwindcss" alt="Tailwind CSS"/>
   <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker"/>
   <img src="https://img.icons8.com/color/48/000000/redis.png" alt="Redis"/>
   <img src="https://cdn.worldvectorlogo.com/logos/rabbitmq.svg" width="42" height="42" alt="RabbitMQ"/>
